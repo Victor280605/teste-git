@@ -1,1 +1,1 @@
-Olá GIT!
+Olá GIT!git status
